@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-	printf("Hello, world from gentoo on VirtualBox!\n");
+	printf("Hello, world!\n");
 	return 0;
 }
