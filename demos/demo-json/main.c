@@ -29,4 +29,5 @@ int main(void) {
 			printf("json_type_stringn");
 			break;
 	}
+	printf("\n");
 }
