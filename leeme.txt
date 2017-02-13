@@ -1,3 +1,9 @@
+Actualizar download
+
+git pull
+
+Actualizar upload
+
 git add .
 git commit -m "test"
 git push
